@@ -4,7 +4,7 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
  
-//tombol
+//tombol 
 #define BUZZER_PIN 17 // Pin buzzer terhubung ke pin GPIO 4
 #define BUTTON_PIN 15 // Pin tombol terhubung ke pin GPIO 5
 #define LED_PIN 19    // Pin LED terhubung ke pin GPIO 19
