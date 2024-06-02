@@ -16,7 +16,7 @@ bool buzzerOn = false; // Variabel untuk melacak status bunyi buzzer
 
 FirebaseData fbdo;
 FirebaseAuth auth;
-FirebaseConfig config;
+FirebaseConfig config; 
 FirebaseData newData;
 
 unsigned long sendDataPrevMillis = 0;
